@@ -1,10 +1,11 @@
 import Header from '../Header';
+import './styles.css';
 
 function DefaultLayout({ children }) {
   return (
     <>
       <Header />
-      <div >
+      <div className="container">
         {children}
       </div>
     </>

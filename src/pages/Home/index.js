@@ -1,5 +1,4 @@
 import DefaultLayout from '../../components/DefaultLayout';
-import './styles.css';
 
 function Home() {
   return (
