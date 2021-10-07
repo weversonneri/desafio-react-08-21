@@ -1,0 +1,10 @@
+.home {
+  text-align: center;
+  justify-content: center;
+  display: flex;
+}
+
+.home p {
+max-width: 1080px;
+}
+
