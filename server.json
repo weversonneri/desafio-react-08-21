@@ -10,7 +10,7 @@
           "agendamentos": null,
           "uor": {
               "uor": 111111,
-              "nome_reduzido": "DESAFIO BB"
+              "nome_reduzido": "DESAFIO REACT"
           },
           "ic": null,
           "statusIc": null,
@@ -29,7 +29,7 @@
               "folder": "111111",
               "puppet": false,
               "uptime": 61446208,
-              "cluster": "desafio-bb",
+              "cluster": "desafio-react",
               "hostname": "desafio00018",
               "cpuHotAdd": 1,
               "hwVersion": "vmx-11",
@@ -57,7 +57,7 @@
           "agendamentos": null,
           "uor": {
               "uor": 111111,
-              "nome_reduzido": "DESAFIO BB"
+              "nome_reduzido": "DESAFIO REACT"
           },
           "ic": null,
           "statusIc": null,
@@ -76,7 +76,7 @@
               "folder": "111111",
               "puppet": false,
               "uptime": 67910680,
-              "cluster": "desafio-bb",
+              "cluster": "desafio-react",
               "hostname": "desafio00026",
               "cpuHotAdd": 1,
               "hwVersion": "vmx-13",
@@ -104,7 +104,7 @@
           "agendamentos": null,
           "uor": {
               "uor": 111111,
-              "nome_reduzido": "DESAFIO BB"
+              "nome_reduzido": "DESAFIO REACT"
           },
           "ic": null,
           "statusIc": null,
@@ -123,7 +123,7 @@
               "folder": "111111",
               "puppet": false,
               "uptime": 62740476,
-              "cluster": "desafio-bb",
+              "cluster": "desafio-react",
               "hostname": "desafio00027",
               "cpuHotAdd": 1,
               "hwVersion": "vmx-13",
@@ -151,7 +151,7 @@
           "agendamentos": null,
           "uor": {
               "uor": 111111,
-              "nome_reduzido": "DESAFIO BB"
+              "nome_reduzido": "DESAFIO REACT"
           },
           "ic": null,
           "statusIc": null,
@@ -170,7 +170,7 @@
               "folder": "111111",
               "puppet": false,
               "uptime": 13089905,
-              "cluster": "desafio-bb",
+              "cluster": "desafio-react",
               "hostname": "desafio00022",
               "cpuHotAdd": 1,
               "hwVersion": "vmx-13",
@@ -336,7 +336,7 @@
           "agendamentos": null,
           "uor": {
               "uor": 111111,
-              "nome_reduzido": "DESAFIO BB"
+              "nome_reduzido": "DESAFIO REACT"
           },
           "ic": null,
           "statusIc": null,
@@ -355,7 +355,7 @@
               "folder": "111111",
               "puppet": false,
               "uptime": 58590672,
-              "cluster": "desafio-bb",
+              "cluster": "desafio-react",
               "hostname": "desafio00028",
               "cpuHotAdd": 1,
               "hwVersion": "vmx-13",
@@ -383,7 +383,7 @@
           "agendamentos": null,
           "uor": {
               "uor": 111111,
-              "nome_reduzido": "DESAFIO BB"
+              "nome_reduzido": "DESAFIO REACT"
           },
           "ic": null,
           "statusIc": null,
@@ -402,7 +402,7 @@
               "folder": "111111",
               "puppet": true,
               "uptime": 3427934,
-              "cluster": "desafio-bb",
+              "cluster": "desafio-react",
               "cpuHotAdd": 1,
               "hwVersion": "vmx-13",
               "datacenter": "Lab",
@@ -433,7 +433,7 @@
           "agendamentos": null,
           "uor": {
               "uor": 111111,
-              "nome_reduzido": "DESAFIO BB"
+              "nome_reduzido": "DESAFIO REACT"
           },
           "ic": null,
           "statusIc": null,
@@ -452,7 +452,7 @@
               "folder": "111111",
               "puppet": true,
               "uptime": 3419560,
-              "cluster": "desafio-bb",
+              "cluster": "desafio-react",
               "cpuHotAdd": 1,
               "hwVersion": "vmx-13",
               "datacenter": "Lab",

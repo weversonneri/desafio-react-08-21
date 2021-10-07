@@ -1,4 +1,4 @@
-.navbar-bb {
+.navbar-react {
   background-color: #007acc;
   padding: 0;
   display: grid;
@@ -8,7 +8,7 @@
   max-height: fit-content;
 }
 
-.logo-bb {
+.logo-react {
   width: 3.5rem;
   height: 3.5rem;
 }
