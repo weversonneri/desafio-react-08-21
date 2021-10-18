@@ -1,6 +1,6 @@
 import Home from '../pages/Home';
 
-const appRoutes =  [
+const appRoutes = [
     {
         component: Home,
         path: '/',

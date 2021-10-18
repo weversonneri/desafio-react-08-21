@@ -1,0 +1,54 @@
+.server-wrapper {
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+.server-table {
+  border-spacing: 0pt;
+  border-collapse: separate;
+  width: 100%;
+}
+
+.server-table th, 
+.server-table td {
+  height: 40px;
+  padding: 3px 20px;
+  border: 0.5px solid #DDDDDD;
+  text-align: center;
+}
+
+.server-table th {
+  background: #F0F0F0;
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.server-table th:first-child {
+  width: 5rem;
+  background: #F0F0F0;
+}
+
+.server-table td {
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+
+.check-container input:checked ~ .check {
+  background: #2196F3;
+}
+
+.server-table tr:first-child th:first-child {
+  border-top-left-radius: 5px;
+}
+
+.server-table tr:first-child th:last-child {
+  border-top-right-radius: 5px;
+}
+
+.server-table tr:last-child td:first-child {
+  border-bottom-left-radius: 5px;
+}
+
+.server-table tr:last-child td:last-child {
+  border-bottom-right-radius: 5px;
+}
